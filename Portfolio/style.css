@@ -377,7 +377,7 @@ span{
     margin-bottom: 3rem;
 }
 
-.contact form ,input-box{
+.contact form .input-box{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -522,7 +522,7 @@ footer ul li a:hover{
     
     .home{
         flex-direction: column;
-        margin: 5rem 4 rem;
+        margin: 5rem 4rem;
     }
     
     .home-content h3{
